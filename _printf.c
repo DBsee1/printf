@@ -44,9 +44,11 @@ int _printf(const char *format, ...)
 			printed_chars += printed;
 		}
 	}
-	/**
-	 * Mr. Craig will refactor the code and and write code where necessary
-	 */
+	print_buffer(buffer, &buff_ind);
+
+	va_end(list);
+
+	return (printed_chars);
 
 }
 
