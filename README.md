@@ -1,4 +1,4 @@
-# ALX Software Enginering Printf Team Project
+# ALX Software Enginering Printf Team Project cohort 11
 This team project is a custom made printf function for the C programming language called \_printf. It has been optimized to take various inputs and optional arguments based exactly on how the standard library function printf works. We submitted this as part of the ALX software engineering course requirement for grading.
 
 ## **Synopsis**
@@ -78,6 +78,6 @@ or
 |**r**|The  argument received is expected to be a pointer type char * to an array of characters.  Characters from this array are printed in reverse order up to (but not including) a null byte  ('\0').  |
 |**R**|The argument received is expected to be a pointer type char * to an array of characters.  Characters from this array  are  encoded  to  ROT13  and printed in order up to (but not including a null byte  ('\0').  |
 
-## **Author**
-Yonas Leykun
+**Alx Team Project**
+DBsee1 & Craigminset
 
